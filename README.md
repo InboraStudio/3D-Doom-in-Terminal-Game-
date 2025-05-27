@@ -1,6 +1,12 @@
 # 3D-Doom-in-Terminal-Game-
 A Python Game in Terminal with All Deep Research log's and formulas
 
+
+
+https://github.com/user-attachments/assets/1b2ab652-7a71-4df5-9b34-1339f73e7f6a
+
+
+
 ## A lightweight raycasting engine that runs directly in your terminal!  
 Inspired by classic games like **Doom** and **Wolfenstein 3D**, this project simulates 3D environments using **ASCII characters** and basic trigonometry.
 
@@ -33,6 +39,10 @@ ray_angle = θ - (FOV / 2) + (i / screen_width) * FOV
 
 #### 3. **Ray Direction Vector**
 ```cpp
+
+https://github.com/user-attachments/assets/4cd98917-8033-4464-a7ce-5cff0fca05cc
+
+
 ray_dir_x = cos(ray_angle)
 ray_dir_y = sin(ray_angle)
 ```
